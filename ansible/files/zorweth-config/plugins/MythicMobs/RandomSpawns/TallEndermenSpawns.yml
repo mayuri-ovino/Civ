@@ -5,3 +5,5 @@ TallEnderman:
   Priority: 10
   Worlds: world
   Mobs: ENDERMAN
+  Skills:
+  - skill{s=SpawnHeadroomCheck} @self ~onSpawn
